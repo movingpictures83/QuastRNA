@@ -1,0 +1,2 @@
+Prefix plugins/QuastRNA/example/
+Plugin QuastRNA inputfile parameters.txt outputfile .

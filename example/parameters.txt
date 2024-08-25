@@ -1,0 +1,8 @@
+transcripts	RNA.txt
+reference	Saccharomyces_cerevisiae.R64-1-1.75.dna.toplevel.fa
+GTF	Saccharomyces_cerevisiae.R64-1-1.75.gtf
+disable_infer_genes	1
+disable_infer_transcripts	1
+min_alignment	50
+lower_threshold	0.5
+upper_threshold	0.95

@@ -1,0 +1,3 @@
+idba.fasta
+spades.311.fasta
+Trinity.fasta
